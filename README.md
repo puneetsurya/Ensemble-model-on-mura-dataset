@@ -1,4 +1,4 @@
-# Ensemble-model-on-mura-dataset
+# Use of Deep Learning Models for classification of shoulder bone X-RAY images
 For different causes, fractures develop in the shoulder region, which has a more excellent range of 
 motion than other joints in the body. Computed tomography (CT) or magnetic resonance imaging 
 (MRI) are used to identify these fractures, whereas X-ray is utilised to examine the bones. The 
